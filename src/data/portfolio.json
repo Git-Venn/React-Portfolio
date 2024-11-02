@@ -1,0 +1,22 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio_images/cover_resume.png",
+            "title": "Resume",
+            "description": "Updated Nov 2nd 2024",
+            "url": "venn-react-portfolio/documents/Resume.pdf"
+        },
+        {
+            "cover": "/portfolio_images/cover_github.png",
+            "title": "GitHub Projects",
+            "description": "Python Web Crawler, Web Dev projects",
+            "url": "https://github.com/Git-Venn"
+        },
+        {
+            "cover": "/portfolio_images/cover_gamedev.png",
+            "title": "Game Projects",
+            "description": "Built using Unreal Engine, C++",
+            "url": "https://venn36.itch.io"
+        }
+    ]
+}
