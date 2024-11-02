@@ -1,6 +1,6 @@
 {
-  "homepage": "https://git-venn.github.io/venn-react-portfolio/",
-  "name": "venn-react-portfolio",
+  "homepage": "https://git-venn.github.io/React-Portfolio/",
+  "name": "React-Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
