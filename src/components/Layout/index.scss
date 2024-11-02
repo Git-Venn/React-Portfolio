@@ -38,17 +38,8 @@
     animation-delay: 1s;
 }
 
-.about-page, .contact-page {
-    .text-zone {
-        position: absolute;
-        left: 10%;
-        top: 50%;
-        transform: translateY(-50%);
-        width: 35%;
-        vertical-align: middle;
-        display: table-cell;
-        max-height: 90%;
-    }
+.about-page, .contact-page, .portfolio-page {
+
     h1 {
         font-size: 53px;
         font-family: 'Coolvetica';
@@ -77,6 +68,17 @@
         &:nth-of-type(3) {
             animation-delay: 1.3s;
         }
+    }
+
+    .text-zone {
+        position: absolute;
+        left: 10%;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 35%;
+        vertical-align: middle;
+        display: table-cell;
+        max-height: 90%;
     }
     
     .text-animate-hover {
