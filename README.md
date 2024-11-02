@@ -1,1 +1,1 @@
-First attempt at a web app portfolio using React
+Web App portfolio using React
