@@ -70,7 +70,6 @@ const Contact = () => {
                     <Marker position={[3.1570601060125667, 101.71242225033744]}>
                         <Popup>Malaysia</Popup>
                     </Marker>
-
                 </MapContainer>
             </div>
         </div>
