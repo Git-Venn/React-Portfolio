@@ -23,7 +23,7 @@ const Home = () => {
                     <span className={letterClass}>Hi,</span>
                     <br />
                     <span className={letterClass}>I'm</span>
-                    <AnimatedLetters letterClass={letterClass} strArray={" Chang Kyle Venn".split("")} index={12}/>
+                    <AnimatedLetters letterClass={letterClass} strArray={" Kyle Venn.".split("")} index={12}/>
                     <br/>
                     <AnimatedLetters letterClass={letterClass} strArray={"Software Engineer".split("")} index={28}/>
                 </h1>

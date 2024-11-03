@@ -1,16 +1,17 @@
-.stage-cube-cont {
-    width: 50%;
-    height: 100%;
-    top: 0;
-    padding-top: 18%;
-    margin-left: 0;
-    position: absolute;
-    right: 0;
-    overflow: hidden;
-}
-
 p {
     font-size: 16px;
     font-weight: 300;
     letter-spacing: 2px;
+}
+
+@media screen and (max-width: 1200px) {
+    .container.about-page {
+        .text-zone {
+            position: initial;
+            width: 100%;
+            transform: none;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+    }
 }
