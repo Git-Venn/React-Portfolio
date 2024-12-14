@@ -4,7 +4,7 @@
             "cover": "/portfolio_images/cover_resume.png",
             "title": "Resume",
             "description": "Updated Nov 2nd 2024",
-            "url": "React-Portfolio/documents/Resume.pdf"
+            "url": "/documents/Resume.pdf"
         },
         {
             "cover": "/portfolio_images/cover_github.png",
