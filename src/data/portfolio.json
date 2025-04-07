@@ -3,7 +3,7 @@
         {
             "cover": "/portfolio_images/cover_resume.png",
             "title": "Resume",
-            "description": "Updated Nov 2nd 2024",
+            "description": "Updated Apr 7th 2024",
             "url": "/React-Portfolio/documents/Resume.pdf"
         },
         {
@@ -16,7 +16,7 @@
             "cover": "/portfolio_images/cover_gamedev.png",
             "title": "Game Projects",
             "description": "Built using Unreal Engine, C++",
-            "url": "https://venn36.itch.io"
+            "url": "https://itch.io/profile/venn36"
         }
     ]
 }
