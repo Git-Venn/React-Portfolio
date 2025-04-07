@@ -27,7 +27,7 @@ const Home = () => {
                     <br/>
                     <AnimatedLetters letterClass={letterClass} strArray={"Software Engineer".split("")} index={28}/>
                 </h1>
-                <h2>Frontend Developer / Python / .NET Framework</h2>
+                <h2>Software Developer / .NET Framework / Web developer</h2>
                 <Link to="/contact" className='flat-button'>Contact Me</Link>
             </div>
             <div className="stage-cube-cont">
